@@ -6,6 +6,6 @@
 # My Bot's
 * Ernox Bot
 * Troxy Games
-* Erincme Bot
+* Giveaways Manager 
 # My Languages
 ## Developer : js, html, css, ejs, node.js 
