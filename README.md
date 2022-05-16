@@ -1,11 +1,17 @@
 - 👋 Hi, I’m @AhmedAymanDev
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning Python
-- 📫 How to reach me ... 
+- Discord : MrAhmed#9718
+# My languages 
+* Javascript 
+* html 
+* css
 
-# My Bot's
+# My favorite libraries 
+* express.js
+* discord.js 
+* mongoose
+
+# My Discord Bots
 * Ernox Bot
-* Troxy Games
 * Giveaways Manager 
-# My Languages
-## Developer : js, html, css, ejs, node.js 
