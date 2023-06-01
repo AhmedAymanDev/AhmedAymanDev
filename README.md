@@ -1,17 +1,17 @@
-- 👋 Hi, I’m @AhmedAymanDev
-- 👀 I’m interested in Development
-- 🌱 I’m currently learning Python
-- Discord : MrAhmed#9718
-# My languages 
-* Javascript 
-* html 
-* css
+### About Me
+* My Name **Ahmed Ayman** i'm From **Egypt** 
+* Developer **@ ErnoxBot** 
+* Co-Founder  **@ Semibot**
+---
 
-# My favorite libraries 
-* express.js
-* discord.js 
-* mongoose
+### GitHub Stats 🌟
+![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=AhmedAymanDev&count_private=true&show_icons=true&theme=radical)
 
-# My Discord Bots
-* Ernox Bot
-* Giveaways Manager 
+<a href="https://github.com/AhmedAymanDev?tab=followers">
+  <img src="https://img.shields.io/github/followers/AhmedAymanDev">
+</a>
+<a href="https://github.com/AhmedAymanDev">
+   <img src="https://komarev.com/ghpvc/?username=AhmedAymanDev">
+</a>
+
+
